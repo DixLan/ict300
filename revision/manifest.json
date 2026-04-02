@@ -1,0 +1,14 @@
+[
+  {
+    "id": "m300-reseau",
+    "file": "revision_module300.html",
+    "title": "Services Réseau",
+    "subtitle": "Module 300",
+    "description": "DNS, DHCP, NFS, SMB/Samba, Kerberos, Services d'impression",
+    "questionCount": 56,
+    "tags": ["DNS", "DHCP", "NFS", "Samba", "Kerberos"],
+    "color": "#4f8ef7",
+    "icon": "🌐",
+    "progress": 0
+  }
+]
